@@ -147,3 +147,6 @@ https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
             
  # PROJECT DEMONSTRATION
  
+  Home page-
+  ![image](https://user-images.githubusercontent.com/91561321/170811806-be4237ee-0bc3-4b24-80a7-57b1a4807400.png)
+
