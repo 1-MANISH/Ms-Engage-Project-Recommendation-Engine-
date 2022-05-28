@@ -131,7 +131,7 @@ https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
        
        Note - 
        
-            Dounlod this repositiorie/ folder name as MobileShop and open in vs code
+            Dounlod this repositiorie/ folder name as MobileShop and open in vs code extract this folder to xammp -> htdocs -> Mobileshop
             
             In your local server create Database name same as above mention
             
@@ -139,7 +139,11 @@ https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
             
             Give server name,username ,database name & password according to you if needed 
             
-            
+            To open site in browser 
+                  
+                  Url
+                  
+                     localhost/mobileshop
             
  # PROJECT DEMONSTRATION
  
