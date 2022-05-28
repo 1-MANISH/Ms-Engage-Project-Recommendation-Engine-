@@ -118,6 +118,16 @@ https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
                   
    <img width="1274" alt="Screenshot 2022-05-28 at 10 59 19 AM" src="https://user-images.githubusercontent.com/91561321/170811566-a2718ce7-4d0c-442c-8c5b-50d6124a8070.png">
     
+      IV) Connection Establishment with database
       
+                $servername = "localhost";
+                
+                $username = "root";
+                
+                $password = "";
+                
+                $database = "MobileShop";
+                
+                
  # PROJECT DEMONSTRATION
  
