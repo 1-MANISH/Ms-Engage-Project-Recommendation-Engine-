@@ -128,6 +128,18 @@ https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
                 
                 $database = "MobileShop";
                 
-                
+       
+       Note - 
+       
+            Dounlod this repositiorie/ folder name as MobileShop and open in vs code
+            
+            In your local server create Database name same as above mention
+            
+            Create all table as table name & column name mention above
+            
+            Give server name,username ,database name & password according to you if needed 
+            
+            
+            
  # PROJECT DEMONSTRATION
  
