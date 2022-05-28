@@ -1,0 +1,174 @@
+/* contact section */
+
+.contact{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.contact .heading{
+    font-size: 1.6rem;
+    color: var(--main-color);
+}
+.contact .heading i{
+    font-size: 3rem;
+    color: white;
+}
+.contact .heading span{
+    text-decoration: underline;
+    font-family: 'Roboto Mono', monospace;
+}
+#footer{
+    position: absolute;
+
+    width: 100vw;
+    height: 600px;
+    background-color: rgb(9, 9, 8);
+}
+#container{
+    position: relative;
+
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 22px 2px;
+    margin:12px 0px;
+}
+
+#box1,#box2,#box3,#box4{
+   margin: 10px 0px;
+}
+
+/* handled box-1 */
+#box1{
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   height: 130px;
+}
+#box1 .top{
+    font-size: 2.2rem;
+    font-weight: bolder;
+    letter-spacing: .2rem;
+    padding: 1.4rem 0rem;
+}
+#box1 .bottom{
+    font-size: 1.2rem;
+    font-weight: bold;
+    letter-spacing: .2rem;
+}
+
+/* handled box-2 */
+
+#box2 {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 130px;
+}
+#box2 ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#box2 ul .icon-box{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#box2 ul .icon-box a{
+    /* border: 1px solid red; */
+    border-radius: 50%;
+    font-size: 25px;
+    margin: 12px;
+    background-color: rgb(147, 5, 66);
+    box-shadow:  3px -2px 5px  rgba(159, 16, 42, 0.475);
+
+}
+
+#box2 ul .icon-box a .icon{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 12px;
+    color: rgb(230, 223, 225);
+    
+}
+.icon{
+    border-radius: 50%;
+    transition: transform 0.6s,box-shadow 0.5s;
+    /* box-shadow: 0 2px 3px rgb(0,0,0); */
+}
+.icon:hover{
+    /* box-shadow: 0 3px 5px 5px rgb(63, 63, 65); */
+    transform: translateY(-3px);
+    transform: rotate(360deg);
+}
+#box2 ul .icon-box a .icon li{
+    font-size: 24px;
+
+}
+
+for special background
+#box2 ul .icon-box a.facebook{
+    background-color: rgba(13, 64, 217, 0.813);
+}
+#box2 ul .icon-box a.twitter{
+    background-color: rgba(8, 155, 218, 0.558);
+}
+#box2 ul .icon-box a.linkedin{
+    background-color: deepskyblue;
+}
+#box2 ul .icon-box a.youtube{
+    background-color: red;
+}
+#box2 ul .icon-box a.envelope{
+    background-color:dodgerblue ;
+}
+/* handled box-3 */
+
+#box3{
+    margin-top: 33px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+ .left, .middle, .right{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 12px;
+}
+.left .loc,.middle .call,.right .email{
+    font-size: 34px;
+}
+.left .detail,.middle .detail,.right .detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* handled box-4 */
+#box4{
+    margin-top: 52px;
+  
+    font-size: 15px;
+}
+
+
+
+/* Responsiveness */
+@media screen and (max-width:800px) {
+    .box-container{
+        display: flex;
+        flex-direction: column;
+    }
+}
