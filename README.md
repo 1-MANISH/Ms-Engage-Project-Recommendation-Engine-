@@ -95,6 +95,17 @@ https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
                   https://www.apachefriends.org/download.html
                   
        II) Create a DataBase name as **MobileShop** in your local server(localhost/phpmyadmin) 
+       
+            Now table to be created are - 
+                  
+                  - ** Users ** Table
+                  <img width="1109" alt="Screenshot 2022-05-28 at 10 45 53 AM" src="https://user-images.githubusercontent.com/91561321/170811241-486bb71e-3fe3-49f8-9a1f-7c4e043da043.png">
+
+                  - ** ProductCategory ** Table
+                  - ** Products ** Table
+                  - ** Cart ** Table
+                  - ** Orders ** Table
+                  
       
  # PROJECT DEMONSTRATION
  
