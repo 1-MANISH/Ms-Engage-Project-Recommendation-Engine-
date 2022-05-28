@@ -29,3 +29,34 @@
       
       Thus we can even extend our project as a service to local shopkeepers by keeping the basic structure 
       and layout of website and differentiating the services and features as per requirements of our client.  
+
+# TECH STACK USED
+
+   FRONTEND
+
+      HTML
+
+            The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web             browser. 
+
+      CSS
+
+            Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a                   markup language such as HTML.
+
+      JS
+
+            JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide                 Web, alongside HTML and CSS. Over 97% of websites use JavaScript on the client side for web page behaviour, often                 incorporating third-party libraries.
+
+      BOOTSTRAP
+
+            Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It               contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other                     interface components.
+
+
+   BACKEND
+
+      PHP
+
+            PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. PHP is a widely-             used,free, and efficient alternative to competitors such as Microsoft's ASP. PHP is a general-purpose scripting                   language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in                 1994. The PHP reference implementation is now produced by The PHP Group.
+
+      MYSQL
+
+            MySQL is an open-source relational database management system. Its name is a combination of "My", the name of co-                 founder Michael Widenius's daughter, and "SQL", the abbreviation forStructured Query Language.
