@@ -147,6 +147,58 @@ https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
             
  # PROJECT DEMONSTRATION
  
+ User -
+ 
   Home page-
+  
   ![image](https://user-images.githubusercontent.com/91561321/170811806-be4237ee-0bc3-4b24-80a7-57b1a4807400.png)
+  
+![image](https://user-images.githubusercontent.com/91561321/170811836-ec215aa8-b8e8-4424-aeb9-2454ee529e8d.png)
+
+![image](https://user-images.githubusercontent.com/91561321/170811841-48e597a0-b325-4680-a7d3-b2fe27641570.png)
+
+![image](https://user-images.githubusercontent.com/91561321/170811859-da477d25-b15b-4670-bb2f-2bf0712772dd.png)
+
+
+  Product List Page - 
+  
+  ![image](https://user-images.githubusercontent.com/91561321/170811879-5696f7d9-a021-409f-9a0e-ebc0a5908827.png)
+
+
+   <img width="1440" alt="Screenshot 2022-05-28 at 11 13 27 AM" src="https://user-images.githubusercontent.com/91561321/170811921-b83befbb-dafd-493d-bc8c-9d86e706b050.png">
+   
+   Shop Page- 
+   
+   ![image](https://user-images.githubusercontent.com/91561321/170811932-f211fa0f-3a1d-46e3-a6a8-ddbcb8f6f63c.png)
+   
+   Shopping Cart Page - 
+   
+   ![image](https://user-images.githubusercontent.com/91561321/170811944-1b4da299-8ada-4846-8182-85fe6ea7582d.png)
+   
+   Order Page -
+   
+   ![image](https://user-images.githubusercontent.com/91561321/170811952-db2ecb40-9664-47d5-a492-23d534b7f9b9.png)
+
+   Page After Order Completion -
+   
+   ![image](https://user-images.githubusercontent.com/91561321/170811955-e80834f0-f3dd-4436-8fce-a37982714d5e.png)
+
+-------------------
+ Admin Panel   
+   
+   Home Page -
+   
+   ![image](https://user-images.githubusercontent.com/91561321/170811978-91a25e09-c71d-41ae-9140-a00d868fd60d.png)
+      
+   Add Category Page - 
+
+   ![image](https://user-images.githubusercontent.com/91561321/170811994-580be8e2-fb68-4634-8274-8c82ff5861ef.png)
+
+   Add Product Page -
+   
+   ![image](https://user-images.githubusercontent.com/91561321/170812005-2e5886fa-e57f-4fd8-b567-79e2279d2978.png)
+   
+   Order Summary of Customer page - 
+
+![image](https://user-images.githubusercontent.com/91561321/170812014-0b97dd76-47a5-440f-ba19-618c8f073099.png)
 
