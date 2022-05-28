@@ -76,5 +76,25 @@ https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
       Angular
             Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a               community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
 
+# To Run Webiste on your machine
+
+   Steps
+
+      I) IDE & Essentials tools needed to install
+      
+            Vs-Code - 
+
+                  To Write code
+
+                  https://code.visualstudio.com/download
+
+            Xammp Server -
+
+                  To Run php and for database 
+
+                  https://www.apachefriends.org/download.html
+                  
+       II) Create a DataBase name as **MobileShop** in your local server(localhost/phpmyadmin) 
+      
  # PROJECT DEMONSTRATION
  
