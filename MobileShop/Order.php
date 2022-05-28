@@ -173,7 +173,7 @@
 
                                                         echo '
                                                         <tr>
-                                                            <td width="20%"> <img src="https://i.imgur.com/u11K1qd.jpg" width="90">
+                                                            <td width="20%"> <img src="partials/images/special.svg" width="90">
                                                             </td>
                                                             <td width="60%"> <span class="font-weight-bold">'.$prod_cat_name.'</span>
                                                                 <div class="product-qty"> <span class="d-block">'.$prod_name.'</span>
