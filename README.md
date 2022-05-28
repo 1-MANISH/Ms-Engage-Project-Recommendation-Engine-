@@ -60,3 +60,8 @@
       MYSQL
 
             MySQL is an open-source relational database management system. Its name is a combination of "My", the name of co-                 founder Michael Widenius's daughter, and "SQL", the abbreviation forStructured Query Language.
+            
+#  Design Approach / Materials & Methods     
+
+<img width="607" alt="Screenshot 2022-05-28 at 10 31 20 AM" src="https://user-images.githubusercontent.com/91561321/170810837-54fac317-dab6-43a9-bbc7-53042d006088.png">
+
