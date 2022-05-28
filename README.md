@@ -99,7 +99,7 @@ https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
             Now table to be created are - 
                   
                   - ** Users ** Table
-                  <img width="1109" alt="Screenshot 2022-05-28 at 10 47 16 AM" src="https://user-images.githubusercontent.com/91561321/170811280-7d435691-e5dc-4ce3-84f0-391c516291db.png">
+   <img width="1109" alt="Screenshot 2022-05-28 at 10 47 16 AM" src="https://user-images.githubusercontent.com/91561321/170811280-7d435691-e5dc-4ce3-84f0-391c516291db.png">
 
 
                   - ** ProductCategory ** Table
