@@ -65,3 +65,16 @@
 
 <img width="607" alt="Screenshot 2022-05-28 at 10 31 20 AM" src="https://user-images.githubusercontent.com/91561321/170810837-54fac317-dab6-43a9-bbc7-53042d006088.png">
 
+https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
+
+# Constraints, Alternatives and Tradeoffs  
+
+      NodeJs
+
+            Nodejs is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes             JavaScript code outside a web browser. 
+
+      Angular
+            Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a               community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
+
+ # PROJECT DEMONSTRATION
+ 
