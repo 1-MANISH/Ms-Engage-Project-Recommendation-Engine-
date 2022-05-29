@@ -100,23 +100,39 @@ https://whimsical.com/project-UuVYxHpiNmajGSyUJv6F36
                   
                   - ** Users ** Table
    <img width="1109" alt="Screenshot 2022-05-28 at 10 47 16 AM" src="https://user-images.githubusercontent.com/91561321/170811280-7d435691-e5dc-4ce3-84f0-391c516291db.png">
+   
+<img width="1047" alt="Screenshot 2022-05-29 at 12 31 45 PM" src="https://user-images.githubusercontent.com/91561321/170856346-20662513-7ef5-4bfc-b88e-f8d4b59b0074.png">
 
 
                   - ** ProductCategory ** Table
                   
    <img width="1300" alt="Screenshot 2022-05-28 at 10 49 42 AM" src="https://user-images.githubusercontent.com/91561321/170811348-e57edb7c-afb6-4d88-9da1-d1e68f034f48.png">
+   
+  <img width="1057" alt="Screenshot 2022-05-29 at 12 32 35 PM" src="https://user-images.githubusercontent.com/91561321/170856377-002dd4d0-6530-4454-a12e-1f9a793e32f2.png">
+ 
       
                   - ** Products ** Table
                   
    <img width="980" alt="Screenshot 2022-05-28 at 10 52 07 AM" src="https://user-images.githubusercontent.com/91561321/170811392-ec56853c-3f03-4826-b1f9-4039297d3f9e.png">
+   
+   <img width="1051" alt="Screenshot 2022-05-29 at 12 33 14 PM" src="https://user-images.githubusercontent.com/91561321/170856399-3cf1e7f4-c9bd-4e49-8a77-476ad5fb565a.png">
+     
          
                   - ** Cart ** Table
                   
    <img width="624" alt="Screenshot 2022-05-28 at 10 54 50 AM" src="https://user-images.githubusercontent.com/91561321/170811453-fae7349f-91e2-4c6a-aa6f-f7cdc8ede4e3.png">
+   
+   <img width="954" alt="Screenshot 2022-05-29 at 12 33 47 PM" src="https://user-images.githubusercontent.com/91561321/170856413-7ea256f8-f99d-4b93-b6ed-7934003000d9.png">
+
 
                   - ** Orders ** Table
                   
    <img width="1274" alt="Screenshot 2022-05-28 at 10 59 19 AM" src="https://user-images.githubusercontent.com/91561321/170811566-a2718ce7-4d0c-442c-8c5b-50d6124a8070.png">
+  
+  <img width="1109" alt="Screenshot 2022-05-29 at 12 34 21 PM" src="https://user-images.githubusercontent.com/91561321/170856429-c49c107d-1d8c-4d0c-93ea-22ee3f1b9e8c.png">
+
+
+Note - For each table give attributes as mention in tables above and set primary key as it is and auto increament for attributes having this feature in available tables.
     
       IV) Connection Establishment with database
       
